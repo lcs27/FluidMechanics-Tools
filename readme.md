@@ -10,6 +10,7 @@ This folder contains a set of exercises and useful tools for fluid mechanics mad
     - Runge phenomenon   
 For details see [readme](/NumericalMethod/Readme.md).
 - [ComponentProgramming](/ComponentProgramming/) A personal test for ComponentProgramming
+- [StableSolver](/StableSolver/) A stable solver based on Jos Stam's article 
 ### MATLAB files:
 - [AlleeVonKarman](/AlleeVonKarman) A data-driven analysis for the dimensionless number analysis
 - [CoucheLimite](/CoucheLimite) the calculate of **boundary layer** based on **shooting method** for **Blasuis Equation**, **Falkner-Skan equation** and a practical case.
