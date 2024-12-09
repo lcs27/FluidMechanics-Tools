@@ -15,3 +15,4 @@
 - [Runge's phenomenon](./Runge_phenomenon.py) and its remedies
 
 ![Runge's phenomenon](./runge_phenomenon.jpg)
+- Comparaison between the Conservative form and non conservative form of equation: [Solution of $\frac{\partial u}{\partial t} + u \frac{\partial u}{\partial x_j}=0$](./conservative.py) 
